@@ -44,3 +44,9 @@ a {
   text-decoration: none;
   color: currentColor;
 }
+
+.conainer {
+  width: 1200px;
+  padding: 15px;
+  margin: 0 auto;
+}

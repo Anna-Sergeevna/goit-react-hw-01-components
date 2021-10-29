@@ -6,7 +6,7 @@ import statisticalData from 'components/Statistics/statistical-data.json';
 
 export default function App() {
   return (
-    <div>
+    <div className="conainer">
       <Profile
         key={user.tag}
         name={user.name}
