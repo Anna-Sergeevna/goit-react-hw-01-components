@@ -1,0 +1,19 @@
+.table {
+  width: 600px;
+  margin-bottom: 20px;
+  border: 1px solid #eee;
+}
+
+.table th {
+  font-weight: bold;
+  padding: 10px;
+  background: rgb(129, 129, 230);
+  color: white;
+}
+
+.table td {
+  text-align: center;
+  padding: 10px;
+  border: 1px solid #eee;
+  color: gray;
+}
